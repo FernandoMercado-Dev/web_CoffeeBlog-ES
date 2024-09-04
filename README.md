@@ -1,4 +1,4 @@
-# Web Coffee Blog
+# Web Coffee Blog (FrontEnd)
 
 ## Introduction
 This is a practice project to improve my skills in HTML and CSS. The goal is to create a coffee blog where you can read about us, find and read about new courses or workshops, and contact us through a form; all of this is about coffee.
@@ -48,7 +48,7 @@ This is a practice project to improve my skills in HTML and CSS. The goal is to 
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/FernandoMercado-Dev/web_CoffeeBlog-FrontEnd-ES.git
+git clone https://github.com/FernandoMercado-Dev/web_CoffeeBlog-ES.git
 ```
 2. Navigate to the project folder
 3. Open the index.html file
